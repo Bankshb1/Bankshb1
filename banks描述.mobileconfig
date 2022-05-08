@@ -38,7 +38,7 @@
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>pupituo_5g</string>
+			<string>pupituo_5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
